@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Diagnostics;
 
 public class generazione_scia : MonoBehaviour
 {
@@ -10,22 +11,25 @@ public class generazione_scia : MonoBehaviour
 	bool tiro = false;
 	int counter = 0;
 	int numero_frame = 0;
+	public Stopwatch timer;
 
 
 	// Use this for initialization
 	void Start ()
 	{
 		test_tiro = (BasicLaunchSim)GameObject.FindObjectOfType (typeof(BasicLaunchSim));
+		timer = new Stopwatch ();
+		timer.Start ();
 	}
 	
 	// Update is called once per frame
 	void Update ()
 	{
-		Debug.Log ("SONO UPDATE");
+		UnityEngine.Debug.Log ("SONO UPDATE");
 		numero_frame++;
 		//Debug.Log (richiama_RobotLauncher.launch_event);
 		if (test_tiro.generazione) {
-			Debug.Log ("TIRO FATTO");
+			UnityEngine.Debug.Log ("TIRO FATTO");
 			tiro = true;
 		}
 
@@ -33,20 +37,44 @@ public class generazione_scia : MonoBehaviour
 		if (tiro) {
 			if (numero_frame < 300) {
 				counter++;
-				Debug.Log ("AUMENTO CONTEGGIO 1-5");
-				if (counter == 4) {
 
-					//GetComponent<Renderer> ().material.color = Color.black;
 
-					clone = (GameObject)Instantiate (palla_scia);
+
+				// creazione del clone ogni update per salvare la scia
+				clone = (GameObject)Instantiate (palla_scia);
+
+				// salvo la posizione del clone corrente
+
+				// controllo se c è una posizione del clone precedente
+
+				// creazione del cilindro dalla posizione del clone corrente a quella del clone precedente
+
+				// posizione del clone corrente diventa pos clone precedente
+
+
+				UnityEngine.Debug.Log ("AUMENTO CONTEGGIO 1-5");
+				if (counter == 8) {
+
+					// crezione del clone ogni 4 frame
 					clone.transform.position = (this.transform.position);
-					Debug.Log (this.transform.position);
+
+					//debug posizione del clone
+					//Debug.Log (this.transform.position);
+
+					// colorazione del clone di verde
 					clone.GetComponent<Renderer> ().material.color = Color.green;
 
-					Debug.Log ("STAMPO FRAME PALLA");
+					// debug di stampa del frame
+					UnityEngine.Debug.Log ("STAMPO FRAME PALLA");
+
+					//azzero il counter
 					counter = 0;
 
 				}
+			}
+			if (numero_frame == 300){
+				timer.Stop ();
+				UnityEngine.Debug.Log (timer.Elapsed);
 			}
 		}
 	}

@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: 86e13bbbf847db24caf579c0119725d8
 ModelImporter:
-  serializedVersion: 16
+  serializedVersion: 19
   fileIDToRecycleName:
     100000: chest
     100002: clavicle_L
@@ -236,19 +236,30 @@ ModelImporter:
     4300024: Plane
     4300026: GZM_Neck
     4300028: WomanRacket
+    4300030: GZM_Tongue
+    4300032: GZM_Root
     4300034: GZM_Breast_R
+    4300036: GZM_Foot
+    4300038: GZM_RevToe
     4300040: GZM_UpLid
+    4300042: GZM_Cube025
     4300044: GZM_Circle025
     4300046: GZM_HandIK
     4300048: GZM_Breast_L
     4300050: GZM_Jaw
+    4300052: GZM_Toe
     4300054: GZM_Master
     4300056: GZM_Ball025
+    4300058: GZM_Knuckle
     4300060: GZM_FootIK
     4300062: GZM_CircleChest
     4300064: GZM_FaceJaw
+    4300066: GZM_Hand
     4300068: GZM_CircleSpine
     4300070: GZM_Head
+    4300072: GZM_RevFoot
+    4300074: GZM_CrownHips
+    4300076: GZM_Shoulder
     6400000: GZM_Ball025
     6400002: GZM_Breast_L
     6400004: GZM_Breast_R
@@ -297,11 +308,17 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
+    resampleCurves: 1
     optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
     animationCompression: 1
-    animationRotationError: .5
-    animationPositionError: .5
-    animationScaleError: .5
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
     clipAnimations: []
@@ -316,30 +333,35 @@ ModelImporter:
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
+    keepQuads: 0
     weldVertices: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
+    useFileScale: 0
   tangentSpace:
     normalSmoothAngle: 60
-    splitTangentsAcrossUV: 1
     normalImportMode: 0
-    tangentImportMode: 1
+    tangentImportMode: 4
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
     human: []
     skeleton: []
-    armTwist: .5
-    foreArmTwist: .5
-    upperLegTwist: .5
-    legTwist: .5
-    armStretch: .0500000007
-    legStretch: .0500000007
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
+  humanoidOversampling: 1
   additionalBone: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 
