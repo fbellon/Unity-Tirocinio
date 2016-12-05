@@ -1,0 +1,50 @@
+Initialize engine version: 5.0.2f1 (0b02744d4013)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    Renderer: ATI Radeon HD 2600 Pro (ID=0x9589)
+    Vendor:   ATI
+    VRAM:     504 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Matteo\Documents\RoboTennis\out_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Matteo\Documents\RoboTennis\out_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Matteo\Documents\RoboTennis\out_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Matteo\Documents\RoboTennis\out_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Matteo\Documents\RoboTennis\out_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Matteo\Documents\RoboTennis\out_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Matteo\Documents\RoboTennis\out_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Matteo\Documents\RoboTennis\out_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.034 seconds
+desktop: 2560x1600 60Hz; virtual: 4160x1600 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Matteo\Documents\RoboTennis\out_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Matteo\Documents\RoboTennis\out_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5f54 -> priority: 1 
+  Thread -> id: 33f8 -> priority: 1 
+Launch basic sim
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Launch basic sim
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Launch basic sim
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Launch basic sim
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Launch basic sim
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Launch basic sim
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
