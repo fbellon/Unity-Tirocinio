@@ -17,3 +17,24 @@
 /Users/Simon/Desktop/Tirocinio/File da Francesco/Documents/RoboTennis - Copy/Temp/bin/Debug/Mono.Cecil.Mdb.dll
 /Users/Simon/Desktop/Tirocinio/File da Francesco/Documents/RoboTennis - Copy/Temp/bin/Debug/Assembly-CSharp-firstpass.pdb
 /Users/Simon/Desktop/Tirocinio/File da Francesco/Documents/RoboTennis - Copy/obj/Debug/Assembly-CSharp-firstpass.pdb
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/Temp/bin/Debug/UnityEngine.dll
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/Temp/bin/Debug/UnityEditor.dll
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Simon/Documents/Unity-Tirocinio/BallTracking/Temp/bin/Debug/Mono.Cecil.Mdb.dll

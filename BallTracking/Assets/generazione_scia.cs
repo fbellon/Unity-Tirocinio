@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Diagnostics;
 
-public class generazione_scia : MonoBehaviour
+public class Generazione_scia : MonoBehaviour
 {
 	public GameObject palla_scia;
 	private GameObject clone;
