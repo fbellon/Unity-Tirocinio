@@ -42,7 +42,7 @@ public class Generazione_scia : MonoBehaviour
 
 				// creazione del clone ogni update per salvare la scia
 				clone = (GameObject)Instantiate (palla_scia);
-
+				clone.transform.position = (this.transform.position);
 				// salvo la posizione del clone corrente
 
 				// controllo se c è una posizione del clone precedente
@@ -53,7 +53,7 @@ public class Generazione_scia : MonoBehaviour
 
 
 				UnityEngine.Debug.Log ("AUMENTO CONTEGGIO 1-5");
-				if (counter == 8) {
+				if (counter == 2) {
 
 					// crezione del clone ogni 4 frame
 					clone.transform.position = (this.transform.position);
